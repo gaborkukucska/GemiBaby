@@ -1,0 +1,7 @@
+{
+  "name": "GemiBaby - Gemini 3 Emulator",
+  "description": "A local-first AI framework emulating Gemini 3 capabilities using local LLMs (Ollama/vLLM). Features context management, project workflows, and hivemind mesh networking simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
